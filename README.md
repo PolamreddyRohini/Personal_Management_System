@@ -1,4 +1,4 @@
-# 🧑‍💼 Personnel Management System
+# 🧑‍💼 Personal Management System
 
 A web-based Human Resource Management platform designed to streamline employee data management, attendance, leave tracking, payroll processing, and performance analysis. Built using Agile methodology with focus on usability, security, and modular development.
 
@@ -6,7 +6,7 @@ A web-based Human Resource Management platform designed to streamline employee d
 
 ## 📌 Project Overview
 
-- **Goal**: Digitize and automate personnel tasks like attendance, payroll, leave approval, and employee records.
+- **Goal**: Digitize and automate personal tasks like attendance, payroll, leave approval, and employee records.
 - **Audience**: HR Managers, Employees, Admins
 - **Access Control**: Role-based access (Admin / HR / Employee)
 
@@ -98,4 +98,4 @@ A web-based Human Resource Management platform designed to streamline employee d
 
 ## 📌 Conclusion
 
-The **Personnel Management System** simplifies HR operations through secure and efficient automation. While some components like session handling and email alerts need improvements, the system sets a strong foundation for scalable enterprise use. Agile development allowed fast feedback-driven iterations, resulting in a flexible and user-aligned application.
+The **Personal Management System** simplifies HR operations through secure and efficient automation. While some components like session handling and email alerts need improvements, the system sets a strong foundation for scalable enterprise use. Agile development allowed fast feedback-driven iterations, resulting in a flexible and user-aligned application.
